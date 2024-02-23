@@ -14,8 +14,13 @@ jobs:
       with:
         issue-number: ${{ github.event.issue.number }}
         body: |
-          Hi there! 👋 Thank you for bringing your question to us. We noticed this issue is more a support question than a feature request or a bug report. For support queries and discussions, our Fuel Forum is the perfect spot! 🌟 Please visit [forum.fuel.network](https://forum.fuel.network) to get the help you need. We're encourage you to shift the conversation there to keep our GitHub issues streamlined for bug reports and feature requests. Thanks for understanding and contributing to the Fuel community! 🚀
-        reactions: '+1'
+          Hi there! 👋
+          
+          Thank you for bringing your question to us. We noticed this issue is more a support question than a feature request or a bug report. For support queries and discussions, our Fuel Forum is the perfect spot! 🌟 Please visit [forum.fuel.network](https://forum.fuel.network) to get the help you need. 
+          
+          We encourage you to shift the conversation there to keep our GitHub issues streamlined for bug reports and feature requests. 
+          
+          Thanks for understanding and contributing to the Fuel community! 🚀
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
