@@ -3,8 +3,4 @@ contact_links:
   - name: Need Support? Visit the Fuel Forum
     url: https://forum.fuel.network
     about: >
-      For all support-related questions, please head over to the Fuel Forum at [forum.fuel.network](https://forum.fuel.network). Our community and team members are active there and ready to help. 
-
-      In this GitHub repository, we're focused on addressing bug reports and discussing feature requests. While you're welcome to report bugs or suggest new features here, please note that only these types of issues are guaranteed a response in this repo.
-
-      We appreciate your contributions and feedback and encourage you to use the appropriate channels to ensure the quickest and most effective responses. Thank you for being a part of our community!
+    For support queries, please visit the Fuel Forum at https://forum.fuel.network. Only bug reports and feature requests in this repo are guaranteed a response.
